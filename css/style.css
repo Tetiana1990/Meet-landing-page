@@ -202,7 +202,7 @@ footer {
   background-color: #4d96a9;
   background-blend-mode: soft-light;
   background-size: cover;
-  background-image: url("/img/image-footer.jpg");
+  background-image: url("../img/image-footer.jpg");
   background-repeat: no-repeat;
   background-position: center;
   padding: 5.9rem 1.5rem 4.5rem;
@@ -260,7 +260,7 @@ footer {
   }
   footer {
     padding: 5.8rem 1.5rem 4.1rem;
-    background-image: url("/img/image-footer.jpg");
+    background-image: url("../img/image-footer.jpg");
   }
   .footer-heading {
     margin-bottom: 2.1rem;
@@ -320,7 +320,7 @@ footer {
   }
   footer {
     padding: 7.25rem 1.5rem 6.5rem;
-    background-image: url("/img/image-footer.jpg");
+    background-image: url("../img/image-footer.jpg");
   }
   .footer-heading {
     margin-bottom: 0;
