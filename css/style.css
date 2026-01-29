@@ -260,6 +260,7 @@ footer {
   }
   footer {
     padding: 5.8rem 1.5rem 4.1rem;
+    background-image: url("/img/image-footer.jpg");
   }
   .footer-heading {
     margin-bottom: 2.1rem;
@@ -319,6 +320,7 @@ footer {
   }
   footer {
     padding: 7.25rem 1.5rem 6.5rem;
+    background-image: url("/img/image-footer.jpg");
   }
   .footer-heading {
     margin-bottom: 0;
